@@ -1,0 +1,2 @@
+npx create-react-app react-hooks --template typescript
+npm i --save react-router react-router-dom

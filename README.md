@@ -1,33 +1,33 @@
-# Моя библиотека кастомных хуков
+## Моя библиотека кастомных хуков
 
-## Стандартные
+### Стандартные
 
-### `useState (TypeScript)`
-### `useEffect`
-### `useLayoutEffect + useRef`
-### `useMemo`
-### `useCallback`
-### `useDebugValue`
-### `useReducer`
-### `useContext`
+- `useState (TypeScript)`
+- `useEffect`
+- `useLayoutEffect + useRef`
+- `useMemo`
+- `useCallback`
+- `useDebugValue`
+- `useReducer`
+- `useContext`
 
-## Кастомные хуки
+### Кастомные хуки
 
-### `useLocalStorage`
-### `useOutside`
-### `useWindowSize`
-### `useElementSize`
-### `useHover`
-### `usePrevious`
-### `useOnScreen`
-### `useAnimation`
-### `useDebounce`
-### `useThrottle`
-### `useKeyPress`
-### `useScript`
-### `useAsync`
-### `useIntersectionObserver`
-### `useSsr`
-### `useInput`
-### `useCookie`
-### `useFetch`
+- `useLocalStorage`
+- `useOutside`
+- `useWindowSize`
+- `useElementSize`
+- `useHover`
+- `usePrevious`
+- `useOnScreen`
+- `useAnimation`
+- `useDebounce`
+- `useThrottle`
+- `useKeyPress`
+- `useScript`
+- `useAsync`
+- `useIntersectionObserver`
+- `useSsr`
+- `useInput`
+- `useCookie`
+- `useFetch`

@@ -11,6 +11,7 @@ import {
     UseDebugValuePage,
     UseReducerPage,
     UseContextPage,
+    ModalPage,
     NotFound,
 } from "pages";
 
@@ -34,15 +35,16 @@ import UseInput from "./hooks/UseInput";
 import UseCookie from "./hooks/UseCookie";
 import UseFetch from "./hooks/UseFetch";
 
-
-
 // https://usehooks-ts.com/react-hook/use-debounce
 // https://github.com/streamich/react-use
 
 function App() {
+   
     return (
         <div className="App">
             <Navigation />
+            
+
             <div className="main">
                 <Routes>
                     <Route path="/" element={<UseStatePage />} />
@@ -54,6 +56,7 @@ function App() {
                     <Route path="/useReducer" element={<UseReducerPage />} />
                     <Route path="/useContext" element={<UseContextPage />} />
 
+                    <Route path="/useModal" element={<ModalPage />} />
                     <Route path="/useLocalStorage" element={<UseLocalStorage />} />
                     <Route path="/useOutside" element={<UseOutside />} />
                     <Route path="/useWindowSize" element={<UseWindowSize />} />

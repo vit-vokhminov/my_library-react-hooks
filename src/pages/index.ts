@@ -6,5 +6,6 @@ export { default as UseCallbackPage } from "./UseCallbackPage";
 export { default as UseDebugValuePage } from "./UseDebugValuePage";
 export { default as UseReducerPage } from "./UseReducerPage";
 export { default as UseContextPage } from "./UseContextPage";
+export { default as ModalPage } from "./ModalPage";
 
 export { default as NotFound } from "./NotFound";

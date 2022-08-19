@@ -17,6 +17,7 @@ function Navigation() {
 
             <p>Кастомные хуки</p>
             <ul className="nav_main">
+                <li><Link to="/useModal">useModal</Link></li>
                 <li><Link to="/useLocalStorage">useLocalStorage</Link></li>
                 <li><Link to="/useOutside">useOutside</Link></li>
                 <li><Link to="/useWindowSize">useWindowSize</Link></li>

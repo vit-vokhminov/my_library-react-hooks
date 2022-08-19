@@ -1,0 +1,29 @@
+.main {
+    width: 432px;
+    max-width: 100%;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.description {
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.buttons_actions {
+    padding-top: 22px;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-content: stretch;
+    align-items: center;
+}

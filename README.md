@@ -13,6 +13,7 @@
 
 ### Кастомные хуки
 
+- `useModal`
 - `useLocalStorage`
 - `useOutside`
 - `useWindowSize`
